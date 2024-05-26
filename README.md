@@ -1,2 +1,2 @@
 # Bank-marketing
-interest rate indicates the 3-month interest rate between banks duration indicates the time since the last contact was made with a given consumer
+Interest rate refers to the 3-month interbank interest rate refers to the time before the last contact is made with a particular consumer so a successful check is made to build strategic guidelines.create predictive model using shows whether the any previous marketing campaign was successful with this customer. The march and may are Boolean variables that account for when the call was made to the specific customer . credit shows if the customer has enough credit to avoid defaulting. 
